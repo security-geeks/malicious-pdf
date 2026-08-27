@@ -9,6 +9,12 @@ __pycache__/
 # PDF Files
 *.pdf
 
+# Generated output directory
+output/
+
+# Claude Code
+CLAUDE.md
+
 # Distribution / packaging
 .Python
 build/
@@ -139,3 +145,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# macOS
+.DS_Store
